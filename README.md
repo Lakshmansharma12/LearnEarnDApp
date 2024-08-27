@@ -70,8 +70,13 @@ The **Learn-to-Earn** platform leverages blockchain technology to incentivize ed
 - **Mobile Application**: Develop a mobile app for greater accessibility.
 - **Expanded Rewards**: Introduce additional reward types and gamification features.
 - **Partnerships**: Collaborate with educational institutions for more course offerings.
+- 
 ##contract address:
-thee contracrt address  is :0x483d13b68ef48a0ad1ed8fcd990c423bf8ec720d
+
+THE CONTRACT ADDRESS IS :0x483d13b68ef48a0ad1ed8fcd990c423bf8ec720d
+
+
+
 ![image](https://github.com/user-attachments/assets/9eb6f780-50d3-42e6-9f12-d2e3f87c9e29)
 
 
