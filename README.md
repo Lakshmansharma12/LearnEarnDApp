@@ -79,5 +79,5 @@ For inquiries or further information, please contact:
 
 - **Name**: lakshman sharma
 - **Email**: lakshmansharma217@gmail.com
-- **GitHub**: lakshmansharma147
+- **GitHub**: https://github.com/Lakshmansharma12
 ```
