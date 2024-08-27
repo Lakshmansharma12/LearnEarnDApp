@@ -5,8 +5,9 @@
 ## Vision
 
 The **Learn-to-Earn** platform leverages blockchain technology to incentivize education by rewarding students with tokens and NFTs for completing educational tasks. Our vision is to create an engaging learning environment where achievements are recognized and rewarded, bridging the gap between education and tangible benefits.
+![image](https://github.com/user-attachments/assets/22e89825-02a0-4f78-9c68-e6cf0d1db054)
 
-https://github.com/user-attachments/assets/2bd46a2f-65f6-4304-bb6a-a4409be4d080
+
 
 
 ## Features
@@ -71,6 +72,8 @@ https://github.com/user-attachments/assets/2bd46a2f-65f6-4304-bb6a-a4409be4d080
 - **Partnerships**: Collaborate with educational institutions for more course offerings.
 ##contract address:
 thee contracrt address  is :0x483d13b68ef48a0ad1ed8fcd990c423bf8ec720d
+![image](https://github.com/user-attachments/assets/9eb6f780-50d3-42e6-9f12-d2e3f87c9e29)
+
 
 
 ## Contact
