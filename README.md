@@ -6,10 +6,6 @@
 
 The **Learn-to-Earn** platform leverages blockchain technology to incentivize education by rewarding students with tokens and NFTs for completing educational tasks. Our vision is to create an engaging learning environment where achievements are recognized and rewarded, bridging the gap between education and tangible benefits.
 
-## Flowchart
-
-![Flowchart](flowchart.png)
-
 *Note: Replace with an actual flowchart image that illustrates the process of enrolling in courses, completing tasks, and earning rewards.*
 
 ## Features
